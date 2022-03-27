@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Jureamer&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Jureamer&fontSize=40&fontColor=1f1f1f)
 ### 👋 Hi there, I'm Jureamer
-i'm a server app developer using NodeJS, NestJS, ExpressJS.
+i'm a junior server app developer using NodeJS, NestJS, ExpressJS.
 <br>
 I believe that the most important thing is to do consistently in everything. 
 <br>
@@ -41,4 +41,4 @@ Front : <img src="https://img.shields.io/badge/-Javascript-yellow"/></a> <img sr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=150&section=footer)
