@@ -17,7 +17,7 @@ Back : <img src="https://img.shields.io/badge/-NodeJs-green"/></a> <img src="htt
 Front : <img src="https://img.shields.io/badge/-Javascript-yellow"/></a> <img src="https://img.shields.io/badge/-Typescript-informational"/></a>
 <img src="https://img.shields.io/badge/-React-blue"/></a> <img src="https://img.shields.io/badge/-Redux-blueviolet"/></a> 
 
-(Skills I've used over once)
+(Skills I've used over once) 
 
 
 ### ✏️ Want to Study
