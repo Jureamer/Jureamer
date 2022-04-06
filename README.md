@@ -6,7 +6,6 @@ I believe that the most important thing is to do consistently in everything.
 <br>
 <br>
 <a href="https://velog.io/@wngud4950" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a>
-<a href="https://url.kr/kc25rm" target="_blank"><img src="https://img.shields.io/badge/Repo-FFFFFF?style=flat-square&logo=Notion&logoColor=000000"/></a>
 <a href="mailto:wngud4950@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wngud4950@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJureamer&count_bg=%23363637&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
 ### 🔑  Skills
