@@ -21,11 +21,12 @@ Front : <img src="https://img.shields.io/badge/-Javascript-yellow"/></a> <img sr
 
 ### ✏️ Want to Study
 <img src="https://img.shields.io/badge/-Docker-blue"/></a> <img src="https://img.shields.io/badge/-kubernetes-critical"/></a> 
- <img src="https://img.shields.io/badge/-phyton-lightgray"/></a> <img src="https://img.shields.io/badge/-Redis-black"/></a>
+<img src="https://img.shields.io/badge/-Redis-black"/></a>
  <img src="https://img.shields.io/badge/-GraphQL-white"/></a>
 
 ### 🔨 Tools
-<img src="https://img.shields.io/badge/-Notion-blue"/></a> <img src="https://img.shields.io/badge/-Slack-critical"/></a> 
+<img src="https://img.shields.io/badge/-Notion-blue"/></a>  <img src="https://img.shields.io/badge/-Swagger-Green"/></a>
+<img src="https://img.shields.io/badge/-Slack-critical"/></a> 
  <img src="https://img.shields.io/badge/-Discord-purple"/></a>
 
 <br>
