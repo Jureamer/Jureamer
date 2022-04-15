@@ -21,8 +21,8 @@ Front : <img src="https://img.shields.io/badge/-Javascript-yellow"/></a> <img sr
 
 ### ✏️ Want to Study
 <img src="https://img.shields.io/badge/-Docker-blue"/></a> <img src="https://img.shields.io/badge/-kubernetes-critical"/></a> 
-<img src="https://img.shields.io/badge/-Redis-black"/></a>
- <img src="https://img.shields.io/badge/-GraphQL-white"/></a>
+<img src="https://img.shields.io/badge/-Redis-black"/></a> <img src="https://img.shields.io/badge/-Python-mint"/></a>
+ <img src="https://img.shields.io/badge/-GraphQL-white"/></a> <img src="https://img.shields.io/badge/-Swift-pink"/></a>
 
 ### 🔨 Tools
 <img src="https://img.shields.io/badge/-Notion-blue"/></a>  <img src="https://img.shields.io/badge/-Swagger-Green"/></a>
