@@ -31,4 +31,5 @@ Front : <img src="https://img.shields.io/badge/-Javascript-yellow"/></a> <img sr
 
 <br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngud4950)](https://solved.ac/wngud4950/)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=150&section=footer)
