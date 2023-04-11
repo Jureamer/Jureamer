@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Jureamer&fontSize=40&fontColor=1f1f1f)
 ### 👋 Hi there, I'm Jureamer
-i'm a junior server app developer using NodeJS, NestJS, ExpressJS.
+i'm a junior server web developer using NodeJS, NestJS, ExpressJS.
 <br>
 I believe that the most important thing is to do consistently in everything. 
 <br>
