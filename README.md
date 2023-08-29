@@ -16,19 +16,17 @@ Back : <img src="https://img.shields.io/badge/-NodeJs-green"/></a> <img src="htt
 Front : <img src="https://img.shields.io/badge/-Javascript-yellow"/></a> <img src="https://img.shields.io/badge/-Typescript-informational"/></a>
 <img src="https://img.shields.io/badge/-React-blue"/></a> <img src="https://img.shields.io/badge/-Redux-blueviolet"/></a> 
 
-(Skills I've used over once) 
-
-
-### ✏️ Want to Study
-<img src="https://img.shields.io/badge/-Docker-blue"/></a> <img src="https://img.shields.io/badge/-kubernetes-critical"/></a> 
-<img src="https://img.shields.io/badge/-Redis-black"/></a> <img src="https://img.shields.io/badge/-Python-mint"/></a>
- <img src="https://img.shields.io/badge/-GraphQL-white"/></a> <img src="https://img.shields.io/badge/-Swift-pink"/></a>
-
 ### 🔨 Tools
 <img src="https://img.shields.io/badge/-Notion-blue"/></a>  <img src="https://img.shields.io/badge/-Swagger-Green"/></a>
 <img src="https://img.shields.io/badge/-Slack-critical"/></a> 
  <img src="https://img.shields.io/badge/-Discord-purple"/></a>
 
+### ✏️ Want to Study
+<img src="https://img.shields.io/badge/-Docker-blue"/></a> <img src="https://img.shields.io/badge/-kubernetes-critical"/></a> 
+<img src="https://img.shields.io/badge/-Redis-black"/></a> <img src="https://img.shields.io/badge/-ElasticSearch-mint"/></a>
+<img src="https://img.shields.io/badge/-Kafka-yellow"/></a>
+
+ 
 <br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=150&section=footer)
